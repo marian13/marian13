@@ -1,1 +1,1 @@
-- [GitLab](https://gitlab.com/marian13gitlab).
+- [GitLab](https://gitlab.com/marian13gitlab)
